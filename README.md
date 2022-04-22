@@ -14,7 +14,7 @@
 
 Đây là bộ EFI mình tự build chuẩn nhất hệ mặt trời 😁😁🤪. 
 Dell M4800 cũng có thể dùng chung, chỉ cần chỉnh sửa config.plist một chút là có thể chạy nhé.                                                  
-Link Down: (https://drive.google.com/drive/u/2/folders/1D2aPrGwLULIiQi9aHAe_f1NG5pIVAHx4)                        
+Link Down: https://drive.google.com/drive/u/2/folders/1D2aPrGwLULIiQi9aHAe_f1NG5pIVAHx4                        
 ![Ảnh chụp Màn hình 2022-04-19 lúc 12 34 35](https://user-images.githubusercontent.com/103987160/163943326-f0feba96-c7ee-4e5e-8a48-26573a480818.png)
 <!---
 # Opencore HP Zbook 15 G2 - 0.8.0
